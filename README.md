@@ -1,5 +1,5 @@
 Welcome to WebSense: The AI-Powered Article Summarizer React App
-WebSense is a cutting-edge web application built using React.js, Vite.js, Tailwind CSS, and Redux.js. It leverages the power of GPT-4 API through RapidAPI to provide concise and accurate summaries of website articles. Whether you're a student, professional, or curious reader, WebSense simplifies your reading experience by transforming lengthy articles into digestible insights.
+WebSense is a cutting-edge web application built using React.js, Vite.js, Tailwind CSS, and Redux.js. It leverages the power of GPT-4 API through RapidAPI to provide concise and accurate summaries of website articles. Whether you're a student, professional, or curious reader, WebSense simplifies your reading experience by transforming lengthy articles into digestible insights. developed from @ajay-mandal
 
 You can check out the live demo of WebSense here: https://websensesummerize.netlify.app/
 
