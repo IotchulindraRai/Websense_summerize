@@ -6,7 +6,7 @@ You can check out the live demo of WebSense here: https://websensesummerize.netl
 
 Copy
 cd WebSense
-Install Dependencies:
+**Install Dependencies:**
 
 **bash**
 
@@ -16,9 +16,9 @@ npx tailwindcss init -p
 
 npm install react-redux
 
-Start the Development Server:
+**Start the Development Server:**
 
-**bash**
+
 
 npm run dev
 
